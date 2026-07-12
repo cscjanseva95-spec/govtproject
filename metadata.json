@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Sarkari Portal",
+  "description": "Official Sarkari Portal for Latest Jobs, Results, Admit Cards, and expert application assistance. Trusted by millions of aspirants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
